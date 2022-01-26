@@ -6,11 +6,11 @@ This is SlidwShow App. It can be changed to previous and next slide using button
 
 2) when the slide is in between (all three button are enabled)
 
-![image](https://user-images.githubusercontent.com/98461795/151229926-ba689b91-37ae-4a4f-b5f0-bf6b009746eb.png)
+![image](https://user-images.githubusercontent.com/98461795/151230635-b0e8c49b-fe1a-4d76-a662-1b996709b6e4.png)
 
 3) when the slide is last (next button is disabled)
 
-![image](https://user-images.githubusercontent.com/98461795/151230021-319a83ae-aac0-40bc-9d61-f8a8edc4e6a9.png)
+![image](https://user-images.githubusercontent.com/98461795/151230677-fdec5538-8c60-495e-b910-d3c9d63d4ac9.png)
 
 
 
