@@ -1,4 +1,4 @@
-This is SlideShow App. It can be changed to previous and next slide using buttons. It also have restart button for bringing it back to first the slide.
+This is a SlideShow App in React.js. It can be changed to previous and next slide using buttons. It also have restart button for bringing it back to first the slide.
 
 1) When the slide is first (prev and restart buttons are disabled)
 
