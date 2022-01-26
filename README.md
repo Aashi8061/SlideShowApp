@@ -2,7 +2,7 @@ This is SlidwShow App. It can be changed to previous and next slide using button
 
 1) When the slide is first (prev and restart button is disabled)
 
-![image](https://user-images.githubusercontent.com/98461795/151230253-aa6850e7-488f-4e8b-ab8c-32077b5264f0.png)
+![image](https://user-images.githubusercontent.com/98461795/151230506-88173061-e30c-4c6e-aed1-54b827d8210a.png)
 
 2) when the slide is in between (all three button are enabled)
 
